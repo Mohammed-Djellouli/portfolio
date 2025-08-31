@@ -39,3 +39,12 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+
+#data
+data/
+data/*
+data/personal.ts
+data/site.ts
+data/posts.ts
+data/projects.ts
